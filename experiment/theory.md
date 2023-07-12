@@ -6,13 +6,13 @@ In this experiment we will learn how to identify functional and non-functional r
 
 ## Theory
 
-#### **Requirements**
+### Requirements
 
 Sommerville defines "requirement" as a specification of what should be implemented. Requirements specify how the target system should behave. It specifies what to do, but not how to do. Requirements engineering refers to the process of understanding what a customer expects from the system to be developed, and to document them in a standard and easily readable and understandable format. This documentation will serve as reference for the subsequent design, implementation and verification of the system.
 
 It is necessary and important that before we start planning, design and implementation of the software system for our client, we are clear about it's requirements. If we don't have a clear vision of what is to be developed and what all features are expected, there would be serious problems, and customer dissatisfaction as well.
 
-#### **Characteristics of Requirements**
+### Characteristics of Requirements
 
 Requirements gathered for any new system to be developed should exhibit the following three properties:
 
@@ -20,7 +20,7 @@ Requirements gathered for any new system to be developed should exhibit the foll
 - **Consistency:** To illustrate this, consider the automation of a nuclear plant. Suppose one of the clients say that it the radiation level inside the plant exceeds R1, all reactors should be shut down. However, another person from the client side suggests that the threshold radiation level should be R2. Thus, there is an inconsistency between the two end users regarding what they consider as threshold level of radiation.
 - **Completeness:** A particular requirement for a system should specify what the system should do and also what it should not. For example, consider a software to be developed for ATM. If a customer enters an amount greater than the maximum permissible withdrawal amount, the ATM should display an error message, and it should not dispense any cash.
 
-#### **Categorization of Requirements**
+### Categorization of Requirements
 Based on the target audience or subject matter, requirements can be classified into different types, as stated below:
 
 - **User requirements:** They are written in natural language so that both customers can verify their requirements have been correctly identified
@@ -37,7 +37,7 @@ Non-functional requirements could be further classified into different types lik
 - **Performance requirements:** For example, the system should remain available 24x7
 - **Organizational requirements:** The development process should comply to SEI CMM level 4
 
-#### **Functional Requirements**
+### Functional Requirements
 
 ##### **Identifying Functional Requirements**
 Given a problem statement, the functional requirements could be identified by focusing on the following points:
@@ -48,7 +48,7 @@ Given a problem statement, the functional requirements could be identified by fo
 - Any high level requirement identified could have different sub-requirements. For example, "Issue Book" module could behave differently for different class of users, or for a particular user who has issued the book thrice consecutively.
 
 
-#### **Preparing Software Requirements Specifications**
+### Preparing Software Requirements Specifications
 
 Once all possible FRs and non-FRs have been identified, which are complete, consistent, and non-ambiguous, the Software Requirements Specification (SRS) is to be prepared. IEEE provides a template [4], also available here, which could be used for this purpose. The SRS is prepared by the service provider, and verified by its client. This document serves as a legal agreement between the client and the service provider. Once the concerned system has been developed and deployed, and a proposed feature was not found to be present in the system, the client can point this out from the SRS. Also, if after delivery, the client says a new feature is required, which was not mentioned in the SRS, the service provider can again point to the SRS. The scope of the current experiment, however, doesn't cover writing a SRS.
 
@@ -103,7 +103,7 @@ R6 | Reissue Book | High|
 
 
 
-#### **Identification of non-functional requirements**
+### Identification of non-functional requirements
 
 Having talked about functional requirements, let's try to identify a few non-functional requirements.
 
