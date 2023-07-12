@@ -4,15 +4,17 @@
 <img src="experiment/images/iitkgp.png" width="10%">
 </div>
 
+<b>Discipline | <b> Computer Science  
+:--|:--|
+<b> Lab | <b> **Software Engineering**
+<b> Experiment|     <b> **Identifying the Requirements from Problem Statements and Experiment 1**
+
+
 ### About the Experiment 
 Requirements identification is the first step of any software development project. Until the requirements of a client have been clearly identified, and verified, no other task (design, coding, testing) could begin. Usually business analysts having domain knowledge on the subject matter discuss with clients and decide what features are to be implemented.
 
 In this experiment we will learn how to identify functional and non-functional requirements from a given problem statement. Functional and non-functional requirements are the primary components of a Software Requirements Specification.
 
-<b>Discipline | <b> Computer Science  
-:--|:--|
-<b> Lab | <b> **Software Engineering**
-<b> Experiment|     <b> **Identifying the Requirements from Problem Statements and Experiment 1**
 
 
 ### Subject Matter Experrts 
