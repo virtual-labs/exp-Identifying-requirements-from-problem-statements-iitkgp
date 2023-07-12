@@ -1,4 +1,4 @@
-## Objecttive
+## Objective
 
 **After completing this experiment you will be able to:**
 

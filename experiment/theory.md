@@ -91,6 +91,7 @@ In a similar way we can list other functionality offered by the system as well. 
 Having identified the (major) functional requirements, we assign an identifier to each of them [v] for future reference and verification. Following table shows the list:
 
  Table 01: Identifier and priority for software requirements
+ 
 No. | Requirement |Priority 
 :--|:--|:--|
 R1 | New User Registration | High
