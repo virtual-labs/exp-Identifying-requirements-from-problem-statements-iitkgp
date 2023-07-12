@@ -2,37 +2,39 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Functional requirements of a system are related to",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Using the system (by users) to get some meaningful work done",
+        "b": "How the system functions under different constraints ",
+        "c": "Whether they adhere to the organization policies "
+       
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "SRS refers to",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Software Requirements Specification ",
+        "b": "System Resources Statement",
+        "c": " Statement of Reliability of System",
+        "d": "Standard Requirements Statement "
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The main objective behind preparing a SRS is to",
+      "answers": {
+        "a": "Let client and developers agree that they understand each other ",
+        "b": "Formally note down the requirements",
+        "c": "Estimate the cost of development ",
+        "d": "To judge whether the project could be undertaken  "
       },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
