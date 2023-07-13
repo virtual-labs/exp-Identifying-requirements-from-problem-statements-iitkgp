@@ -4,7 +4,7 @@
 <img src="experiment/images/iitkgp.png" width="10%">
 </div>
 
-<b>Discipline | <b> Computer Science  
+<b>Discipline | <b> Computer Science Engineering
 :--|:--|
 <b> Lab | <b> **Software Engineering**
 <b> Experiment|     <b> **Identifying the Requirements from Problem Statements and Experiment 1**
@@ -37,10 +37,14 @@ In this experiment we will learn how to identify functional and non-functional r
 
 
 ### Contributors List
+SrNo | Name | VLabs Developer or Integration Engineer | Department| Institute
+:--|:--|:--|:--|:--|
+1 | **Prakriti Dhang** | Developer and Integration |  Department of Mechanical Engineering | IIT Kharagpur | 
 
+#### Former Staff Members
 SrNo | Name | VLabs Developer or Integration Engineer | Department| Institute
 :--|:--|:--|:--|:--|
 1 | **Barun Kumar Saha** | Developer |  Department of Mechanical Engineering | IIT Kharagpur | 
 2 | **Tuhin Chakrabarty** | Developer |  Department of Mechanical Engineering | IIT Kharagpur | 
 3 | **Bibudhendu Pati** | Developer |  Department of Mechanical Engineering | IIT Kharagpur | 
-4 | **Prakriti Dhang** | Developer & Integration |  Department of Mechanical Engineering | IIT Kharagpur |
+
