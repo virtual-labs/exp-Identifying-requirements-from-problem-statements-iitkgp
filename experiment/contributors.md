@@ -16,10 +16,14 @@
 
 
 ### Contributors List
+SrNo | Name | VLabs Developer or Integration Engineer | Department| Institute
+:--|:--|:--|:--|:--|
+1 | **Prakriti Dhang** | Developer and Integration |  Department of Mechanical Engineering | IIT Kharagpur | 
 
+#### Former Staff Members
 SrNo | Name | VLabs Developer or Integration Engineer | Department| Institute
 :--|:--|:--|:--|:--|
 1 | **Barun Kumar Saha** | Developer |  Department of Mechanical Engineering | IIT Kharagpur | 
 2 | **Tuhin Chakrabarty** | Developer |  Department of Mechanical Engineering | IIT Kharagpur | 
 3 | **Bibudhendu Pati** | Developer |  Department of Mechanical Engineering | IIT Kharagpur | 
-4 | **Prakriti Dhang** | Developer and Integration |  Department of Mechanical Engineering | IIT Kharagpur | 
+

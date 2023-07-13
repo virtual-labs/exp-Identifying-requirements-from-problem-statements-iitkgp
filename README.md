@@ -4,7 +4,7 @@
 <img src="experiment/images/iitkgp.png" width="10%">
 </div>
 
-<b>Discipline | <b> Computer Science  
+<b>Discipline | <b> Computer Science Engineering
 :--|:--|
 <b> Lab | <b> **Software Engineering**
 <b> Experiment|     <b> **Identifying the Requirements from Problem Statements and Experiment 1**

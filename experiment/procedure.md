@@ -1,8 +1,8 @@
 ## Procedure
 
-#### Steps for conducting the experiment
+Steps for conducting the experiment
 
-### **General Instructions**
+#### **General Instructions**
 Follow are the steps to be followed in general to perform the experiments in **Software Engineering Virtual Lab.**
 
 1. Read the theory about the experiment
@@ -10,7 +10,7 @@ Follow are the steps to be followed in general to perform the experiments in **S
 3. Take the self evaluation to judge your understanding (optional, but recommended)
 4. Solve the given list of exercises
 
-### **Experiment Specific Instructions**
+#### **Experiment Specific Instructions**
 
 Following are the instructions specifically for this experiment:
 
