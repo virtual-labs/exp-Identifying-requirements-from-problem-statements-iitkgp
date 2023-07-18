@@ -1,7 +1,3 @@
-## Objectives
+## Aim of the Experiment
 
-**After completing this experiment you will be able to:**
-
-- Identify ambiguities, inconsistencies and incompleteness from a requirements specification
-- Identify and state functional requirements
-- Identify and state non-functional requirements
+In this experiment we will learn how to identify functional and non-functional requirements from a given problem statement. Functional and non-functional requirements are the primary components of a Software Requirements Specification.
