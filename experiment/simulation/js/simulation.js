@@ -4,6 +4,7 @@ Exp:Identifying the Requirements from Problem Statements
 File Name: simulation.js
 Author: Prakriti Dhang */
 
+var stopani;
 function playsimulation() {
 
   document.getElementById("playbtn").style.display = "none";
@@ -104,29 +105,32 @@ function playsimulation() {
 
   }
 
-
+var stopanis;
   function displayd32() {
     document.getElementById("pm3").style.display = "block";
     document.getElementById("d32").style.display = "block";
     document.getElementById("d31").style.display = "none";
-    stopani = setTimeout(stopsimulation, 5000);
+    stopanis = setTimeout(stopsimulation, 5000);
 
 
 
   }
-
+var stopaniend ;
   function stopsimulation() {
     document.getElementById("pm3").style.display = "none";
     document.getElementById("d31").style.display = "none";
     document.getElementById("d32").style.display = "none";
     const highlightxt3 = document.getElementById('m3');
     highlightxt3.style.background = " linear-gradient(90deg, white 50%, rgba(255, 255, 255, 0) 50%)";
-    stopani = setTimeout(endsimulation, 1000);
+    stopaniend = setTimeout(endsimulation, 1000);
+    clearTimeout(stopanis);
   }
   function endsimulation() {
     document.getElementById("playbtn").style.display = "block";
     document.getElementById("pausebtn").style.display = "none";
+    clearTimeout(stopaniend);
     clearTimeout(stopani);
+    location.reload();
   }
 
   //location.reload();
