@@ -44,7 +44,7 @@ R1 | New User Registration | High|
 R2 | User Login | High|
 R3 | Search Book | High|
 R4 | Issue Book | High|
-R5 | Retrun Book | High|
+R5 | Return Book | High|
 R6 | Reissue Book | High|
 
 
