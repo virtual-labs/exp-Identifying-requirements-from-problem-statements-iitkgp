@@ -1,0 +1,26 @@
+
+/home/runner/work/exp-Identifying-requirements-from-problem-statements-iitkgp/exp-Identifying-requirements-from-problem-statements-iitkgp/experiment/simulation/js/main.js
+    7:10  warning  'reset1' is defined but never used   no-unused-vars
+   50:10  warning  'subex' is defined but never used    no-unused-vars
+  107:10  warning  'sub1' is defined but never used     no-unused-vars
+  170:14  warning  'chnga1' is defined but never used   no-unused-vars
+  178:14  warning  'chngc1' is defined but never used   no-unused-vars
+  185:14  warning  'chngd1' is defined but never used   no-unused-vars
+  192:14  warning  'chnga21' is defined but never used  no-unused-vars
+  199:14  warning  'chngc21' is defined but never used  no-unused-vars
+  207:14  warning  'chnga31' is defined but never used  no-unused-vars
+  215:10  warning  'sub2' is defined but never used     no-unused-vars
+  278:10  warning  'chnge12' is defined but never used  no-unused-vars
+  285:10  warning  'chngi12' is defined but never used  no-unused-vars
+  292:10  warning  'chngl12' is defined but never used  no-unused-vars
+  300:10  warning  'sub3' is defined but never used     no-unused-vars
+  346:10  warning  'chnga13' is defined but never used  no-unused-vars
+  353:10  warning  'chngc13' is defined but never used  no-unused-vars
+  360:10  warning  'chnge13' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-Identifying-requirements-from-problem-statements-iitkgp/exp-Identifying-requirements-from-problem-statements-iitkgp/experiment/simulation/js/simulation.js
+    8:10  warning  'playsimulation' is defined but never used   no-unused-vars
+  151:10  warning  'pausesimulation' is defined but never used  no-unused-vars
+
+✖ 19 problems (0 errors, 19 warnings)
+
